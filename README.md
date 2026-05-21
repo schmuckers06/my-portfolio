@@ -5,18 +5,6 @@ Professional Portfolio for Larissa Johnstone
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Larissa Johnstone | Senior IT Project Manager Portfolio</title>
-    <style>
-        body { font-family: 'Segoe UI', Calibri, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 40px 20px; background-color: #f8f9fa; }
-        h1 { color: #1A365D; border-bottom: 2px solid #1A365D; padding-bottom: 10px; margin-top: 0; }
-        h2 { color: #2B6CB0; margin-top: 30px; border-bottom: 1px solid #E2E8F0; padding-bottom: 5px; }
-        h3 { color: #2D3748; }
-        .meta { color: #4A5568; font-weight: 500; margin-bottom: 20px; background: #EDF2F7; padding: 10px; border-left: 4px solid #1A365D; }
-        ul { padding-left: 20px; }
-        li { margin-bottom: 8px; }
-        .highlight { font-weight: bold; color: #1A365D; }
-        .contact-info { margin-bottom: 30px; font-size: 1.1em; color: #4A5568; }
-    </style>
 </head>
 <body>
     <h1>LARISSA JOHNSTONE</h1>
