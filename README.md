@@ -26,15 +26,15 @@ DC Metro Area | (571) 420-5996 | johnstonelarissa@outlook.com
         <strong>Methodology:</strong> Hybrid (Predictive/Waterfall Governance + Adaptive/Agile Execution) <br>
         <strong>Impact:</strong> 100% on-schedule delivery, zero unscheduled downtime across high-stakes portfolios.
     </div>
-    <h3>The Challenge (Situation & Task)</h3>
+    <h3>The Challenge</h3>
     <p>The organization relied heavily on decentralized, legacy on-premises storage solutions and unstandardized document management protocols, introducing compliance risks and communication silos. The directive was to establish an integrated, enterprise-wide technical schedule to baseline, validate, and execute an O365 migration while modernizing departmental SharePoint architecture under a zero-downtime constraint.</p>
-<h3>The Strategy & Execution (Action)</h3>
+<h3>The Strategy & Execution</h3>
 <ul>
 <li><span class="highlight">Discovery & Dependency Mapping:</span> Structured initial phases using a traditional Waterfall approach to define rigid security boundaries and map file permissions, then shifted execution to an Agile sprint model to manage cross-functional systems engineering assets.</li>
-<li><span class="highlight">Architecture & Validation:</span> Architected a standardized taxonomy and permission governance framework across the new SharePoint Online environment. Developed custom validation automation utilities within Excel to clean and verify legacy data objects prior to cloud injection.</li>
+<li><span class="highlight">Architecture & Validation:</span> Architected a standardized taxonomy and permission governance framework across the new SharePoint Online environment. Developed custom validation automation utilities within Excel to clean and verify legacy data objects before cloud injection.</li>
 <li><span class="highlight">Change Management:</span> Coordinated cutover windows with Tier-2/Tier-3 infrastructure streams using ITIL change management parameters. Developed customized training frameworks and digital branding systems to maximize day-one software adoption rates.</li>
     </ul>
-    <h3>Measurable Impact (Result)</h3>
+    <h3>Measurable Impact</h3>
     <ul>
 <li><span class="highlight">Seamless Transition:</span> Migrated enterprise data assets to the cloud with zero unscheduled downtime, preserving total operational continuity.</li>
         <li><span class="highlight">Risk Elimination:</span> Standardized file structures and access control lists (ACLs), removing legacy documentation compliance vulnerabilities.</li>
